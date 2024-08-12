@@ -1,6 +1,6 @@
 # <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> Hello, I'm Samarth 
 
-I'm a Backend Developer. I'm passionate about technologies and love to learn new things.
+I'm a 17 y/o Backend Developer. I'm passionate about technologies and love to learn new things.
 
 
 <img src="https://img.shields.io/badge/- samarplayz1337@gmail.com-556DB3?style=flat-square&logo=gmail&logoColor=EA4335"/>
