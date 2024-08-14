@@ -33,7 +33,7 @@ Here are a few things I've picked up along my learning journey.
 ![Tortoise ORM](https://img.shields.io/badge/-Tortoise%20ORM-05122A?style=flat&logo=tortoise-orm&logoColor=FFFFFF)
 
 
-- Tool : <br />
+- Tools : <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
