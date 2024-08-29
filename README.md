@@ -1,4 +1,4 @@
-# <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> Hello, I'm Samarth <a href="https://zarif.pro/?ref=ghrdme" target="_blank"><img src="https://github.com/zarifpour/assets/blob/main/gifs/imposter.gif?raw=true" alt="imposter" width="75"></a> <br />
+# <a href="https://zarif.pro/?ref=ghrdme" target="_blank"><img src="https://github.com/zarifpour/assets/blob/main/gifs/imposter.gif?raw=true" alt="imposter" width="75"></a> <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> Hello, I'm Samarth  <br />
 
 I'm a 17 y/o Backend Developer. I'm passionate about technologies and love to learn new things.
 
