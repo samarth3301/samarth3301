@@ -12,6 +12,7 @@ Here are a few things I've picked up along my learning journey.
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=00ADD8)
 
 
