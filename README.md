@@ -35,6 +35,7 @@ Here are a few technologies I've picked up along my learning journey.
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
 
