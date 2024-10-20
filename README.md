@@ -20,6 +20,8 @@ Here are a few things I've picked up along my learning journey.
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Gin Gonic](https://img.shields.io/badge/-Gin%20Gonic-05122A?style=flat&logo=go&logoColor=00ADD8)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&logoColor=FFFFFF)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
+
 
 
 - Databases <br />
