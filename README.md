@@ -32,12 +32,14 @@ Here are a few technologies I've picked up along my learning journey.
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma&logoColor=FFFFFF)
 ![Tortoise ORM](https://img.shields.io/badge/-Tortoise%20ORM-05122A?style=flat&logo=tortoise-orm&logoColor=FFFFFF)
 
-### Tools
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
+
 
 ## 📊 GitHub Stats
 
