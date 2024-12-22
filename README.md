@@ -39,23 +39,3 @@ Here are a few technologies I've picked up along my learning journey.
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
-
-
-## 📊 GitHub Stats
-
-<div align="center"> 
-  <a href="https://github.com/samarth3301#gh-dark-mode-only">
-    <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=samarth3301&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
-      alt="My GitHub stats"
-      height="370"
-    />
-  </a>
-  <a href="https://github.com/samarth3301#gh-dark-mode-only">
-    <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=samarth3301&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
-      alt="My Language stats"
-      height="370"
-    />
-  </a>
-</div>
