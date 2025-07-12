@@ -1,41 +1,11 @@
-# <a href="https://zarif.pro/?ref=ghrdme" target="_blank"><img src="https://github.com/zarifpour/assets/blob/main/gifs/imposter.gif?raw=true" alt="imposter" width="75"></a> 
-<img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px"> Hello, I'm Samarth! 
+### Hi there! <img src="https://imgur.com/C7PX4kM.gif" height="20px" width="20px">
 
-I'm a **18 y/o Lazy Backend Developer** passionate about technologies and always eager to learn new things.
+I’m [**Samarth**](https://www.samarthdev.me), a 18 y/o backend developer based in India.
 
-[![Gmail](https://img.shields.io/badge/-contact@samarthdev.me-556DB3?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:contact@samarthdev.me) [![WakaTime](https://wakatime.com/badge/user/a3c0ea3a-e236-4de6-a8ed-d2a02ade4265.svg)](https://wakatime.com/@a3c0ea3a-e236-4de6-a8ed-d2a02ade4265)
+I love turning ideas into reality, accessible interfaces that feel effortless.
 
-## 🧰 Tech Stack
+Outside of code I also enjoy writing solutions to critical problems and sharing tech-related content on social media.
 
-Here are a few technologies I've picked up along my learning journey.
-
-### Programming Languages
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=00ADD8)
-
-### Backend Technologies
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Gin Gonic](https://img.shields.io/badge/-Gin%20Gonic-05122A?style=flat&logo=go&logoColor=00ADD8)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&logoColor=FFFFFF)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=47A248)
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-
-### ORMs
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma&logoColor=FFFFFF)
-![Tortoise ORM](https://img.shields.io/badge/-Tortoise%20ORM-05122A?style=flat&logo=tortoise-orm&logoColor=FFFFFF)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
+#### Fun Facts:
+* I love coffee while working.
+* I debug on prod btw.
